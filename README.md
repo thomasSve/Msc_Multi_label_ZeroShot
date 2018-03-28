@@ -1,5 +1,5 @@
 # Zero-Shot MultiLabel
-###### code for [master thesis]() on Zero-Shot Classification with multilabel data.
+###### code for [master thesis](https://brage.bibsys.no/xmlui/bitstream/handle/11250/2459946/15964_FULLTEXT.pdf?sequence=1&isAllowed=y) on Zero-Shot Classification with multilabel data.
 
 ## Abstract
 Visual recognition systems are often limited to the object categories previously trained on and thus suffer in their ability to scale. This is in part due to the difficulty of acquiring sufficient labeled images as the number of object categories grows. To solve this, earlier research have presented models that uses other sources, such as text data, to help classify object categories unseen during training. However, most of these models are limited on images with a single label and most images can contain more than one object category, and therefore more than one label. This master's thesis implements a model capable of classifying unseen categories for both single- and multi-labeled images. 
